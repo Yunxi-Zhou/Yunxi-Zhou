@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yunxi-Zhou
+- 👋 Hi, I’m Yunxi Zhou
 - 👀 I’m interested in coding with python
 - 🌱 I’m currently learning C++ and Flask
 
