@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yunxi Zhou
-- 👀 I’m interested in coding with python
-- 🌱 I’m currently learning C++ and C
+- 👀 I’m interested in coding with python and C++.
+- 🌱 I’m currently learning Arduino and Raspberry Pi!
 
 <!---
 Yunxi-Zhou/Yunxi-Zhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
